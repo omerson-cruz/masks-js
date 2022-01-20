@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Additional Git Ignore Files as suggested by Auth0 article
+.idea/
+.vscode/
+lib/
+
+# leave everything else untouched
+
